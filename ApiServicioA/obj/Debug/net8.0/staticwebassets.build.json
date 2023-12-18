@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "a8LJAFpnjsIceaZcodO5dMtJchsQ3Hca9RGbHpI6WYw=",
+  "Source": "ApiServicioA",
+  "BasePath": "_content/ApiServicioA",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

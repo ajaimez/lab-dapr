@@ -1,0 +1,27 @@
+﻿apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: 
+  labels:
+    app: api-servicio-a
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: api-servicio-a
+  template:
+    metadata:
+      labels:
+        app: api-servicio-a
+      annotations:
+        dapr.io/enabled: "true"
+        dapr.io/app-id: "api-servicio-a"
+        dapr.io/app-port: "5009"
+    spec:
+      containers:
+      - name: api-servicio-a
+        image: ApiServicioA #ghcr.io/dapr/samples/pubsub-csharp-subscriber:latest
+        ports:
+        - containerPort: 5009
+        #imagePullPolicy: Always
+        imagePullPolicy: Never
