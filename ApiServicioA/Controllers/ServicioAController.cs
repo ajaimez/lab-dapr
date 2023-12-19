@@ -9,12 +9,13 @@ namespace ApiServicioA.Controllers
 	{
 		
 		//[HttpGet(Name = "GetWeatherForecast")
-		public async Task<IActionResult> Get(DaprClient daprClient)
-		{
+	[HttpGet]
+	public async Task<IActionResult> Get(DaprClient daprClient)
+	{
 
-			await daprClient.PublishEventAsync("pubsub", "topicName", new { mensaje = "Hola", fecha = DateTime.Now });
+		await daprClient.PublishEventAsync("pubsub", "topicNameMensajes", new { mensaje = "Hola", fecha = DateTime.Now });
 
-			return Ok();
-		}
+		return Ok();
+	}
 	}
 }

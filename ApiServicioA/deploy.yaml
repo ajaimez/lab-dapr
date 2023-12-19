@@ -1,7 +1,7 @@
 ﻿apiVersion: apps/v1
 kind: Deployment
 metadata:
-  name: 
+  name: api-servicio-a
   labels:
     app: api-servicio-a
 spec:
@@ -16,12 +16,25 @@ spec:
       annotations:
         dapr.io/enabled: "true"
         dapr.io/app-id: "api-servicio-a"
-        dapr.io/app-port: "5009"
+        dapr.io/app-port: "8080"
     spec:
       containers:
-      - name: api-servicio-a
-        image: ApiServicioA #ghcr.io/dapr/samples/pubsub-csharp-subscriber:latest
-        ports:
-        - containerPort: 5009
-        #imagePullPolicy: Always
-        imagePullPolicy: Never
+        - name: api-servicio-a
+          image: servicio-a:v1 #ghcr.io/dapr/samples/pubsub-csharp-subscriber:latest
+          ports:
+            - containerPort: 8080
+          #imagePullPolicy: Always
+          imagePullPolicy: Never
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: api-servicio-a-service
+spec:
+  type: ClusterIP
+  ports:
+    - name: name-of-the-port
+      port: 80
+      targetPort: 8080
+  selector:
+    app: api-servicio-a

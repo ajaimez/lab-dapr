@@ -1,39 +1,79 @@
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\appsettings.Development.json
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\appsettings.json
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\ApiServicioA.exe
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\ApiServicioA.deps.json
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\ApiServicioA.runtimeconfig.json
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\ApiServicioA.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\ApiServicioA.pdb
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\Microsoft.OpenApi.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\ApiServicioA.csproj.AssemblyReference.cache
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\ApiServicioA.GeneratedMSBuildEditorConfig.editorconfig
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\ApiServicioA.AssemblyInfoInputs.cache
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\ApiServicioA.AssemblyInfo.cs
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\ApiServicioA.csproj.CoreCompileInputs.cache
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\ApiServicioA.MvcApplicationPartsAssemblyInfo.cs
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\ApiServicioA.MvcApplicationPartsAssemblyInfo.cache
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\staticwebassets.build.json
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\staticwebassets.development.json
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\staticwebassets\msbuild.ApiServicioA.Microsoft.AspNetCore.StaticWebAssets.props
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiServicioA.props
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiServicioA.props
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiServicioA.props
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\staticwebassets.pack.json
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\scopedcss\bundle\ApiServicioA.styles.css
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\ApiServicioA.csproj.CopyComplete
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\ApiServicioA.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\refint\ApiServicioA.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\ApiServicioA.pdb
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\ApiServicioA.genruntimeconfig.cache
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\obj\Debug\net8.0\ref\ApiServicioA.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\Dapr.AspNetCore.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\Dapr.Client.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\Google.Api.CommonProtos.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\Google.Protobuf.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\Grpc.Core.Api.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\Grpc.Net.Client.dll
-D:\Proyectos\MC\Curso Lab Dapr\Code\LabDapr\ApiServicioA\bin\Debug\net8.0\Grpc.Net.Common.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/appsettings.Development.json
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/appsettings.json
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/ApiServicioA.exe
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/ApiServicioA.deps.json
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/ApiServicioA.runtimeconfig.json
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/ApiServicioA.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/ApiServicioA.pdb
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/Microsoft.OpenApi.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.csproj.AssemblyReference.cache
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.GeneratedMSBuildEditorConfig.editorconfig
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.AssemblyInfoInputs.cache
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.AssemblyInfo.cs
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.csproj.CoreCompileInputs.cache
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.MvcApplicationPartsAssemblyInfo.cs
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.MvcApplicationPartsAssemblyInfo.cache
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/staticwebassets.build.json
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/staticwebassets.development.json
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/staticwebassets/msbuild.ApiServicioA.Microsoft.AspNetCore.StaticWebAssets.props
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/staticwebassets/msbuild.build.ApiServicioA.props
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ApiServicioA.props
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ApiServicioA.props
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/staticwebassets.pack.json
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/scopedcss/bundle/ApiServicioA.styles.css
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.csproj.CopyComplete
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/refint/ApiServicioA.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.pdb
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.genruntimeconfig.cache
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/obj/Debug/net8.0/ref/ApiServicioA.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/Dapr.AspNetCore.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/Dapr.Client.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/Google.Api.CommonProtos.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/Google.Protobuf.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/Grpc.Core.Api.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/Grpc.Net.Client.dll
+D:/Proyectos/MC/Curso Lab Dapr/Code/LabDapr/ApiServicioA/bin/Debug/net8.0/Grpc.Net.Common.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/appsettings.Development.json
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/appsettings.json
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/ApiServicioA
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/ApiServicioA.deps.json
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/ApiServicioA.runtimeconfig.json
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/ApiServicioA.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/ApiServicioA.pdb
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/Dapr.AspNetCore.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/Dapr.Client.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/Google.Api.CommonProtos.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/Google.Protobuf.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/Grpc.Core.Api.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/Grpc.Net.Client.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/Grpc.Net.Common.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/Microsoft.OpenApi.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/Swashbuckle.AspNetCore.Swagger.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/bin/Debug/net8.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.csproj.AssemblyReference.cache
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.AssemblyInfoInputs.cache
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.AssemblyInfo.cs
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.csproj.CoreCompileInputs.cache
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.MvcApplicationPartsAssemblyInfo.cs
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.MvcApplicationPartsAssemblyInfo.cache
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.sourcelink.json
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/staticwebassets.build.json
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/staticwebassets.development.json
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/staticwebassets/msbuild.ApiServicioA.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/staticwebassets/msbuild.build.ApiServicioA.props
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.ApiServicioA.props
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.ApiServicioA.props
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/staticwebassets.pack.json
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/scopedcss/bundle/ApiServicioA.styles.css
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.csproj.CopyComplete
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/refint/ApiServicioA.dll
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.pdb
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ApiServicioA.genruntimeconfig.cache
+/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/Debug/net8.0/ref/ApiServicioA.dll

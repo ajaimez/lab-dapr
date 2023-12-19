@@ -1,29 +1,26 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Proyectos\\MC\\Curso Lab Dapr\\Code\\LabDapr\\ApiServicioA\\ApiServicioA.csproj": {}
+    "/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/ApiServicioA.csproj": {}
   },
   "projects": {
-    "D:\\Proyectos\\MC\\Curso Lab Dapr\\Code\\LabDapr\\ApiServicioA\\ApiServicioA.csproj": {
+    "/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/ApiServicioA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Proyectos\\MC\\Curso Lab Dapr\\Code\\LabDapr\\ApiServicioA\\ApiServicioA.csproj",
+        "projectUniqueName": "/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/ApiServicioA.csproj",
         "projectName": "ApiServicioA",
-        "projectPath": "D:\\Proyectos\\MC\\Curso Lab Dapr\\Code\\LabDapr\\ApiServicioA\\ApiServicioA.csproj",
-        "packagesPath": "C:\\Users\\ariel\\.nuget\\packages\\",
-        "outputPath": "D:\\Proyectos\\MC\\Curso Lab Dapr\\Code\\LabDapr\\ApiServicioA\\obj\\",
+        "projectPath": "/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/ApiServicioA.csproj",
+        "packagesPath": "/Users/ariel/.nuget/packages/",
+        "outputPath": "/Users/ariel/Desktop/Cursos/Dapr.io/curso-bitsion/code/lab-dapr/ApiServicioA/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\ariel\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ariel/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "https://api.nuget.org/v3/index.json": {},
-          "https://dev1.bitsion.com:61027/nuget/nuget": {}
+          "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net8.0": {
@@ -73,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
