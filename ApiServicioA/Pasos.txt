@@ -1,0 +1,14 @@
+Pasos para hacer funcionar este lab de dapr
+
+0. Tener inslado Docker Desktop
+
+1. instalar el cliente de dapr https://docs.dapr.io/getting-started/install-dapr-cli/
+
+2. inicializar dapr local https://docs.dapr.io/getting-started/install-dapr-selfhost/
+
+3. ejecutar redis en docker local: docker run -p 6379:6379 --name redis --rm redis
+
+4. Configurar el componente de redis https://docs.dapr.io/getting-started/install-dapr-selfhost/#step-5-verify-components-directory-has-been-initialized
+
+5. ejecutar dapr con la api locamente con el siguiente comando: 
+        dapr run --app-id helloworld --app-port 5287 --dapr-http-port 50000 -- dotnet run --urls http://localhost:5287

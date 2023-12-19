@@ -14,13 +14,15 @@ public class IntegrationEventsController : ControllerBase
 
     [Topic("pubsub","topicNameMensajes")]
     [HttpPost]
-    public async Task<IActionResult> OnEventRecieved(object item)
+    public async Task<IActionResult> OnEventRecieved(MessageEvent item)
     {
 
-        await _daprClient.PublishEventAsync("pubsub", "topicNameMensajesRecibidos", new { mensaje = "Hola", fecha = DateTime.Now });
+        Console.WriteLine("Entro EVENTO NUEVO " + item.mensaje);
+
+        await _daprClient.PublishEventAsync("pubsub", "topicNameMensajesRecibidos", new { mensaje = item.mensaje, fecha = DateTime.Now });
 
         return Ok();
     }
 
-    // internal record MessageEvent(string mensaje, string fecha);
+    public record MessageEvent(string mensaje, string fecha);
 }
